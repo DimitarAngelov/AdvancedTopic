@@ -1,0 +1,3 @@
+D:\VisualStudioProjects\AdvancedTopic\LongestAreaInArray\bin\Debug\LongestAreaInArray.exe.config
+D:\VisualStudioProjects\AdvancedTopic\LongestAreaInArray\obj\Debug\LongestAreaInArray.exe
+D:\VisualStudioProjects\AdvancedTopic\LongestAreaInArray\obj\Debug\LongestAreaInArray.pdb

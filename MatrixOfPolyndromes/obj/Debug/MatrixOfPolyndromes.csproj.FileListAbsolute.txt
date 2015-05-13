@@ -1,0 +1,5 @@
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\MatrixOfPolyndromes\bin\Debug\MatrixOfPolyndromes.exe.config
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\MatrixOfPolyndromes\bin\Debug\MatrixOfPolyndromes.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\MatrixOfPolyndromes\bin\Debug\MatrixOfPolyndromes.pdb
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\MatrixOfPolyndromes\obj\Debug\MatrixOfPolyndromes.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\MatrixOfPolyndromes\obj\Debug\MatrixOfPolyndromes.pdb

@@ -1,0 +1,5 @@
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestWord\bin\Debug\LongestWord.exe.config
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestWord\bin\Debug\LongestWord.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestWord\bin\Debug\LongestWord.pdb
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestWord\obj\Debug\LongestWord.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestWord\obj\Debug\LongestWord.pdb

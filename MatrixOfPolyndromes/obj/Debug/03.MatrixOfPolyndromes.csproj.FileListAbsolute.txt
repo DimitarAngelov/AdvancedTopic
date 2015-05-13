@@ -1,0 +1,3 @@
+D:\VisualStudioProjects\AdvancedTopic\MatrixOfPolyndromes\bin\Debug\MatrixOfPolyndromes.exe.config
+D:\VisualStudioProjects\AdvancedTopic\MatrixOfPolyndromes\obj\Debug\MatrixOfPolyndromes.exe
+D:\VisualStudioProjects\AdvancedTopic\MatrixOfPolyndromes\obj\Debug\MatrixOfPolyndromes.pdb

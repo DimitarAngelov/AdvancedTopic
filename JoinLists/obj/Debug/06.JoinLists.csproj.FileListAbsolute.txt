@@ -1,0 +1,5 @@
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\JoinLists\bin\Debug\JoinLists.exe.config
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\JoinLists\obj\Debug\JoinLists.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\JoinLists\obj\Debug\JoinLists.pdb
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\JoinLists\bin\Debug\JoinLists.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\JoinLists\bin\Debug\JoinLists.pdb

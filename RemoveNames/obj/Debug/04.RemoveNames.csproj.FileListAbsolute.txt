@@ -1,0 +1,5 @@
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\RemoveNames\bin\Debug\RemoveNames.exe.config
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\RemoveNames\bin\Debug\RemoveNames.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\RemoveNames\bin\Debug\RemoveNames.pdb
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\RemoveNames\obj\Debug\RemoveNames.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\RemoveNames\obj\Debug\RemoveNames.pdb

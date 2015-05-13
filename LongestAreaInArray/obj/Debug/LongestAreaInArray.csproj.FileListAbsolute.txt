@@ -1,0 +1,6 @@
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestAreaInArray\bin\Debug\LongestAreaInArray.exe.config
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestAreaInArray\bin\Debug\LongestAreaInArray.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestAreaInArray\bin\Debug\LongestAreaInArray.pdb
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestAreaInArray\obj\Debug\LongestAreaInArray.csprojResolveAssemblyReference.cache
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestAreaInArray\obj\Debug\LongestAreaInArray.exe
+c:\users\dani\Desktop\softuni\Projects\01.SortingNumbers\LongestAreaInArray\obj\Debug\LongestAreaInArray.pdb

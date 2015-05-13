@@ -1,0 +1,6 @@
+C:\Users\Dani\Desktop\softuni\Projects\AdvancedTopic\LongestWord\bin\Debug\LongestWord.exe.config
+C:\Users\Dani\Desktop\softuni\Projects\AdvancedTopic\LongestWord\obj\Debug\LongestWord.exe
+C:\Users\Dani\Desktop\softuni\Projects\AdvancedTopic\LongestWord\obj\Debug\LongestWord.pdb
+D:\VisualStudioProjects\AdvancedTopic\LongestWord\bin\Debug\LongestWord.exe.config
+D:\VisualStudioProjects\AdvancedTopic\LongestWord\obj\Debug\LongestWord.exe
+D:\VisualStudioProjects\AdvancedTopic\LongestWord\obj\Debug\LongestWord.pdb
